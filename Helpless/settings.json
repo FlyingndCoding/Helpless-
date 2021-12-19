@@ -1,0 +1,10 @@
+{
+   "Token": "TOKEN HERE",
+   "Prefix": "PREFIX",
+   "Channel Names": ["CHANNEL NAME"],
+   "Role Names": ["ROLE NAME"],
+   "Webhook Usernames": ["WEBHOOK NAME"],
+   "Spam Messages": ["SPAM MASSGE"],
+   "Bot": true
+}
+
